@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://zimen:a1598741@clustard-dxo2r.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "tokenSecrete"
+}
