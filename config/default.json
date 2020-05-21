@@ -1,7 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://zimen:a1598741@clustard-dxo2r.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "tokenSecrete",
-  "githubClientId": "f2e404d321a8d28ba60a",
-  "githubSecret": "f455535d47f030f6efbb6e75f9e5d336293c9d3f",
-  "githubToken": "c19a82f936201f29ecb76b07d774d5756d9f70de"
-}
